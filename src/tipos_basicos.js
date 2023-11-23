@@ -17,3 +17,5 @@ dadosApi = 10;
 dadosApi = true;
 dadosApi = [1, 2, 3];
 dadosApi = 'string';
+// tipagem implicita
+let curso = 'front-end';
