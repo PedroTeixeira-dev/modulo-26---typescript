@@ -31,3 +31,5 @@ const novoAluno: aluno = {
 function exibeAluno(aluno: aluno) {
     console.log(aluno.nome)
 }
+
+exibeAluno(alunos[1])

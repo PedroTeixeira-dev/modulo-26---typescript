@@ -23,3 +23,4 @@ const novoAluno = {
 function exibeAluno(aluno) {
     console.log(aluno.nome);
 }
+exibeAluno(alunos[1]);
